@@ -1,0 +1,17 @@
+body {
+    background-image: url("Walpaper.jpg");
+    color: white;
+}
+#legend {
+    text-align: center;
+    font-size: larger;
+    color: plum;
+}
+
+form {
+    text-align: center;
+}
+
+input {
+    width: 300px;
+}

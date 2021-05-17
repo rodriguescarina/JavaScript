@@ -1,2 +1,2 @@
 # JavaScript
- Meus projetos da faculdade
+ My college projects
